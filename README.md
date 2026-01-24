@@ -1,4 +1,5 @@
 🔗 Merge and Sort Two Lists in Python
+
 📌 Description
 
 This program merges two lists and then sorts the combined list in ascending order.
@@ -63,7 +64,6 @@ Convert into a function
 Handle duplicate values
 
 👨‍💻 Author
-
 Pranay Jadhao
 
 <img width="401" height="675" alt="image" src="https://github.com/user-attachments/assets/09ada3a0-0c72-4737-884e-3fd2a8efdae2" />
