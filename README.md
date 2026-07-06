@@ -46,25 +46,18 @@ sort() method
 🎯 Use Cases
 
 Combining datasets
-
 Interview preparation
-
 Beginner Python practice
-
 List manipulation problems
 
 🚀 Possible Improvements
 
 Merge without using sort()
-
 Use two-pointer technique
-
 Convert into a function
-
 Handle duplicate values
 
 👨‍💻 Author
 Pranay Jadhao
 
 <img width="401" height="675" alt="image" src="https://github.com/user-attachments/assets/09ada3a0-0c72-4737-884e-3fd2a8efdae2" />
-
